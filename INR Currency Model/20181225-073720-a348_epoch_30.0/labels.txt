@@ -1,0 +1,5 @@
+FakeNote
+OriginalNote 10INR
+OriginalNote 20INR
+OriginalNote 500INR
+OriginalNote 50INR
