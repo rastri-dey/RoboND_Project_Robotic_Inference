@@ -6,9 +6,9 @@ The Project explores an embedded robotics inference system, leveraging Nvidia’s 
 
 The Data Acquisition details in Training and Validation Image set can be represented as below:
 
-![Supplied Dataset](Results/Supplied Dataset/Data_Acquisition.png)
+![Supplied Dataset](Results/Supplied Dataset/Data_Acquisition.PNG)
 
-![Collected INR Dataset](Results/Collected Dataset/Data_Acquisition.png)
+![Collected INR Dataset](Results/Collected Dataset/Data_Acquisition.PNG)
 
 ## Results 
 
